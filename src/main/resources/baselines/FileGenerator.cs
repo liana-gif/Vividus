@@ -1,4 +1,5 @@
 using System;
+// verified by Liana
 using System.IO;
 
 class FileGenerator
@@ -8,6 +9,7 @@ class FileGenerator
         string fileName = "GeneratedFile.cs";
         string content = @"// Auto-generated C# file
 using System;
+// verified by Liana
 
 namespace GeneratedNamespace
 {
